@@ -1,8 +1,10 @@
-## Geospatial Data and Maps with Python for Data Umbrella
+## Geospatial Data and Maps with Python for Data Umbrella - March 1, 2022
+
+[Slides](https://docs.google.com/presentation/d/1YlG_CNO5y4ZaUekzqYQxyUQ8M4L1eTCOJ6uqg94exZE/edit?usp=sharing)
 
 ### Data Sources
 
-* [City Data Source](# https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-populated-places/)
+* [City Data Source](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-populated-places/)
 * [Washington State Hikes](https://github.com/yoshiohasegawa/wta-scraper)
 * [Washington State City Boundaries](https://geo.wa.gov/datasets/WSDOT::wsdot-city-limits/explore)
 * [Washington State Transit Stops](https://geo.wa.gov/datasets/5926fb7a8cc64c068c6bfa92e72eef56/explore)
