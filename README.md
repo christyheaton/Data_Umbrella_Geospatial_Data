@@ -1,5 +1,6 @@
 ## Geospatial Data and Maps with Python for Data Umbrella - March 1, 2022
 
+[Presentation Video](https://www.youtube.com/watch?v=EXHG-bLGT0Y&t=3322s)
 [Slides](https://docs.google.com/presentation/d/1YlG_CNO5y4ZaUekzqYQxyUQ8M4L1eTCOJ6uqg94exZE/edit?usp=sharing)
 
 ### Data Sources
